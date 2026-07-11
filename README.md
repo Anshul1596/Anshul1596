@@ -1,127 +1,13 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Anshu&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Student%20Dev%20%7C%20Building%20AI-Powered%20Things&descAlignY=58&descSize=18"/>
-
-<a href="https://github.com/Anshul1596">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anshu+%F0%9F%91%8B;Full-Stack+%2B+AI+Developer;Currently+shipping+dep-checker+%F0%9F%A4%96;Turning+code+into+cinematic+experiences+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anshul1596&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Anshul1596?label=Followers&style=flat&color=00f7ff" alt="followers"/>
-
-</div>
-
-<br/>
-
-## 💫 About Me
-
-```yaml
-name: Anshu
-role: Student Developer
-focus: Full-stack + AI-powered builds
-currently: Building dep-checker — an AI bot that reads code daily & auto-fixes it
-```
-
-- 🔭 **Currently building** `dep-checker` — AI reads code daily, flags outdated patterns, opens fixes
-- 🎨 **Recently shipped** "The Compile" — a dark cinematic React portfolio (Three.js, Framer Motion, custom GLSL shaders)
-- 🌱 **Open source** — fixed a real QEMU bug in [ruvnet/RuView](https://github.com/ruvnet/RuView) (PR #1267)
-- 💬 Always down to talk stacks, side projects, or making AI do the boring parts
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 The Compile
-Cinematic dark-themed portfolio built with React Three Fiber, Framer Motion, and a custom GLSL fragment shader. 900-particle scroll-driven 3D assembly.
-
-`React` `Three.js` `Tailwind v4` `Framer Motion`
-
-</td>
-<td width="50%">
-
-### 🤖 dep-checker
-AI bot that scans repos daily, reads actual code (not just versions), flags outdated patterns, and opens fixes automatically.
-
-`Node.js` `Octokit` `AI Code Review`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ Compile on the Go
-Multi-language online compiler with an AI-powered "bro mode" that explains code casually.
-
-`React` `Monaco` `Judge0` `Gemini API`
-
-</td>
-<td width="50%">
-
-### 🌿 PlantPulse
-Weather-based plant watering app using FAO evapotranspiration modeling and live geolocation.
-
-`Flask` `Open-Meteo API` `FAO Model`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwind,mongodb,mysql,sqlite,supabase,aws,azure,heroku&theme=dark" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anshul1596&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul1596&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&cache_seconds=1800" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul1596&theme=radical&hide_border=true&background=0D1117"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul1596&theme=react-dark&hide_border=true&bg_color=0D1117&color=00f7ff&line=ff2e63&point=ffffff"/>
-
-</div>
-
-> 💡 If a stats card ever shows "Failed to retrieve contributions" — that's GitHub's API getting rate-limited, not your README. It clears itself on refresh, usually within a few minutes.
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anshul1596&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anshullsajwan)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/_ilf04_)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer"/>
-
+# 💫 About Me:
+I'm a student and a developer.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshullsajwan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_ilf04_) 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anshul1596&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anshul1596&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul1596&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=Anshul1596&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
