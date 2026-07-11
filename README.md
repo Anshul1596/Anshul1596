@@ -1,78 +1,121 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Anshul Singh Sajwan</h1>
 
-<a href="https://github.com/Anshul1596">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshu+%F0%9F%91%8B;Student+%26+Developer;Building+with+React+%2B+AI;Currently+shipping+dep-checker+%F0%9F%A4%96" alt="Typing SVG" />
+<h3 align="center">
+Full Stack Developer • Python Developer • Tech Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+Developer;React+%2B+Node.js;Backend+Engineer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anshul1596&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Anshul Singh Sajwan
+Location: India 🇮🇳
+Role: Student + Full Stack Developer
+
+Currently Learning:
+  - System Design
+  - React
+  - Next.js
+  - Node.js
+  - Cloud
+
+Interests:
+  - Backend Development
+  - AI
+  - Open Source
+  - UI/UX
+  - Automation
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://instagram.com/anshullsajwan">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-</div>
+<a href="https://reddit.com/user/_ilf04_">
+<img src="https://skillicons.dev/icons?i=reddit"/>
+</a>
 
-<br/>
+</p>
 
-## 💫 About Me
+---
 
-I'm a student developer who builds full-stack + AI-powered projects — from cinematic React portfolios to bots that read code and fix it themselves.
+# 💻 Tech Stack
 
-- 🔭 Currently building **`dep-checker`** — an AI bot that reads code daily, flags outdated patterns, and auto-fixes them
-- 🎨 Recently shipped **"The Compile"** — a dark cinematic React portfolio (Three.js, Framer Motion, custom GLSL shaders)
-- 🌱 Contributed a real bug fix to [ruvnet/RuView](https://github.com/ruvnet/RuView) (QEMU monitor prompt detection)
-- 💬 Always down to talk stacks, side projects, or how to make an AI do the boring parts
+<p align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,sqlite,supabase,aws,azure,git,github,vscode,firebase,docker,linux" />
 
-## 🚀 Featured Projects
+</p>
 
-| Project | What it does |
-|---|---|
-| **The Compile** | Cinematic dark-themed React portfolio — React Three Fiber, Framer Motion, custom shaders |
-| **dep-checker** | AI code-review bot — scans repos daily, flags outdated patterns, opens fixes |
-| **Compile on the Go** | Multi-language online compiler with AI-powered "bro mode" explanations |
-| **PlantPulse** | Weather-based plant watering app using FAO evapotranspiration modeling |
+---
 
-<br/>
+# 📈 GitHub Stats
 
-## 🌐 Socials
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anshullsajwan)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/_ilf04_)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul1596&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul1596&theme=tokyonight&hide_border=true"/>
 
-## 💻 Tech Stack
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<p align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul1596&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
+</p>
 
-<div align="center">
+---
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anshul1596&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul1596&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+# 🏆 GitHub Trophies
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul1596&theme=dark&hide_border=false"/>
+<p align="center">
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Anshul1596&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-<br/>
+</p>
 
-<div align="center">
+---
 
-[![](https://visitcount.itsvg.in/api?id=Anshul1596&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 Contribution Graph
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul1596&theme=tokyo-night"/>
 
-</div>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Anshul1596/Anshul1596/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> I love building cool projects, automating boring tasks, and learning new technologies every day.
+
+---
+
+<p align="center">
+
+Made with ❤️ by Anshul
+
+</p>
